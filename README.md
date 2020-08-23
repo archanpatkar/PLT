@@ -3,6 +3,12 @@ Programming Language experiments
 
 ## Index
 
+* [Bhaskara](https://github.com/archanpatkar/Bhaskara): An Object-Functional programming language
+
+* [Styla](https://github.com/archanpatkar/styla): Interpreter/Compiler for Simply Typed Lambda Calculus with extensions 
+
+* [ULC](https://github.com/archanpatkar/styla): Interpreter/Compiler for Untyped Lambda Calculus with extensions 
+
 * [Arith](https://github.com/archanpatkar/Arith): A small programming language for maths
     
 * [Logico](https://github.com/archanpatkar/Logico): A very simple DSL for expressing propositional logic formulaes
