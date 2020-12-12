@@ -24,3 +24,7 @@ Programming Language experiments
 * [Kombis](https://github.com/archanpatkar/Kombis): A DSL for SKI combinator calculus which transpiles to Javascript
   
 * [LambdaSharp](  https://github.com/archanpatkar/LambdaSharp): A small transpiler from untyped lambda calculus to F#
+
+* [Brain8888](https://github.com/archanpatkar/Brain8888): An Interpreter for Brainf*#k (esolang)
+
+* [Small](https://github.com/archanpatkar/Small): A small esolang
