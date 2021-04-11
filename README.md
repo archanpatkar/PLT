@@ -11,20 +11,20 @@ Programming Language experiments
 * [HASM](https://github.com/archanpatkar/Hasm): Assembler for Hack CPU (nand2tetris)
 * [Robolang](https://github.com/archanpatkar/RoboLang): An educational programming language for simple algorithmic art
 
+## Theoretical/Formal Systems
+
+* [ULC](https://github.com/archanpatkar/styla): Untyped Lambda Calculus with extensions
+* [Styla](https://github.com/archanpatkar/styla): Simply Typed Lambda Calculus with extensions
+* [HML](https://github.com/archanpatkar/hml): A mini ML with Hindley-Milner-Damas type inference
+* [SystemF](https://github.com/archanpatkar/systemF): System F polymorphic/second-order lambda calculus
+* [Omega](https://github.com/archanpatkar/omega): System F Omega Lambda Calculus
+* [Kombis](https://github.com/archanpatkar/Kombis): A DSL for SKI combinator calculus which transpiles to Javascript
+* [LambdaSharp](https://github.com/archanpatkar/LambdaSharp): A small transpiler from untyped lambda calculus to F#
+
 ## Lisps
 
 * [Saral](https://github.com/archanpatkar/Saral): A small Lisp like language where the expressional medium is JSON
 * [Samvid](https://github.com/archanpatkar/Samvid): A scheme interpreter in python
-
-## Theoretical/Formal Systems
-
-* [ULC](https://github.com/archanpatkar/styla): Untyped Lambda Calculus with extensions (Interpreter/Compiler)
-* [Styla](https://github.com/archanpatkar/styla): Simply Typed Lambda Calculus with extensions (Interpreted)
-* [HML](https://github.com/archanpatkar/hml): A mini ML with Hindley-Milner-Damas type inference (Interpreted)
-* [SystemF](https://github.com/archanpatkar/systemF): System F polymorphic/second-order lambda calculus (Interpreted)
-* [Omega](https://github.com/archanpatkar/omega): System F Omega Lambda Calculus (Interpreted)
-* [Kombis](https://github.com/archanpatkar/Kombis): A DSL for SKI combinator calculus which transpiles to Javascript
-* [LambdaSharp](https://github.com/archanpatkar/LambdaSharp): A small transpiler from untyped lambda calculus to F#
 
 ## Other DSLs/Esolangs
 
