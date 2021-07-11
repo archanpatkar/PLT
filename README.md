@@ -9,7 +9,6 @@ Programming Language experiments
 * [Jack](https://github.com/archanpatkar/Jack): Compiler for an Object based Programming Language (nand2tetris)
 * [JackVM](https://github.com/archanpatkar/JackVM): Jack Language VM (Translates AOT) (nand2tetris)
 * [HASM](https://github.com/archanpatkar/Hasm): Assembler for Hack CPU (nand2tetris)
-* [Robolang](https://github.com/archanpatkar/RoboLang): An educational programming language for simple algorithmic art
 
 ## Theoretical/Formal Systems
 
@@ -28,6 +27,7 @@ Programming Language experiments
 
 ## Other DSLs/Esolangs
 
+* [Robolang](https://github.com/archanpatkar/RoboLang): An educational programming language for simple algorithmic art
 * [Logico](https://github.com/archanpatkar/Logico): A very simple DSL for expressing propositional logic formulaes
 * [Arith](https://github.com/archanpatkar/Arith): A small programming language for maths
 * [vMachina](https://github.com/archanpatkar/vMachina): A simple stack virtual machine
