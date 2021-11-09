@@ -5,6 +5,7 @@ Programming Language experiments
 
 ## General Purpose
 
+* [W](https://github.com/archanpatkar/W): A WASM native language
 * [Bhaskara](https://github.com/archanpatkar/Bhaskara): An Object-Functional programming language
 * [Jack](https://github.com/archanpatkar/Jack): Compiler for an Object based Programming Language (nand2tetris)
 * [JackVM](https://github.com/archanpatkar/JackVM): Jack Language VM (Translates AOT) (nand2tetris)
